@@ -1,0 +1,16 @@
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Condicionales_Bucles\bin\Debug\net5.0\Condicionales_Bucles.exe
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Condicionales_Bucles\bin\Debug\net5.0\Condicionales_Bucles.deps.json
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Condicionales_Bucles\bin\Debug\net5.0\Condicionales_Bucles.runtimeconfig.json
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Condicionales_Bucles\bin\Debug\net5.0\Condicionales_Bucles.runtimeconfig.dev.json
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Condicionales_Bucles\bin\Debug\net5.0\Condicionales_Bucles.dll
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Condicionales_Bucles\bin\Debug\net5.0\ref\Condicionales_Bucles.dll
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Condicionales_Bucles\bin\Debug\net5.0\Condicionales_Bucles.pdb
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Condicionales_Bucles\obj\Debug\net5.0\Condicionales_Bucles.csproj.AssemblyReference.cache
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Condicionales_Bucles\obj\Debug\net5.0\Condicionales_Bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Condicionales_Bucles\obj\Debug\net5.0\Condicionales_Bucles.AssemblyInfoInputs.cache
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Condicionales_Bucles\obj\Debug\net5.0\Condicionales_Bucles.AssemblyInfo.cs
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Condicionales_Bucles\obj\Debug\net5.0\Condicionales_Bucles.csproj.CoreCompileInputs.cache
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Condicionales_Bucles\obj\Debug\net5.0\Condicionales_Bucles.dll
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Condicionales_Bucles\obj\Debug\net5.0\ref\Condicionales_Bucles.dll
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Condicionales_Bucles\obj\Debug\net5.0\Condicionales_Bucles.pdb
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Condicionales_Bucles\obj\Debug\net5.0\Condicionales_Bucles.genruntimeconfig.cache

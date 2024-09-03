@@ -1,0 +1,16 @@
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Funciones\bin\Debug\net5.0\Funciones.exe
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Funciones\bin\Debug\net5.0\Funciones.deps.json
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Funciones\bin\Debug\net5.0\Funciones.runtimeconfig.json
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Funciones\bin\Debug\net5.0\Funciones.runtimeconfig.dev.json
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Funciones\bin\Debug\net5.0\Funciones.dll
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Funciones\bin\Debug\net5.0\ref\Funciones.dll
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Funciones\bin\Debug\net5.0\Funciones.pdb
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Funciones\obj\Debug\net5.0\Funciones.csproj.AssemblyReference.cache
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Funciones\obj\Debug\net5.0\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Funciones\obj\Debug\net5.0\Funciones.AssemblyInfoInputs.cache
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Funciones\obj\Debug\net5.0\Funciones.AssemblyInfo.cs
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Funciones\obj\Debug\net5.0\Funciones.csproj.CoreCompileInputs.cache
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Funciones\obj\Debug\net5.0\Funciones.dll
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Funciones\obj\Debug\net5.0\ref\Funciones.dll
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Funciones\obj\Debug\net5.0\Funciones.pdb
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Funciones\obj\Debug\net5.0\Funciones.genruntimeconfig.cache

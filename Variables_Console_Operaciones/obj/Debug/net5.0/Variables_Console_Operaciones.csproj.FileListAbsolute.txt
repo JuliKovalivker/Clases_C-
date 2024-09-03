@@ -1,0 +1,16 @@
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Variables_Console_Operaciones\bin\Debug\net5.0\Variables_Console_Operaciones.exe
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Variables_Console_Operaciones\bin\Debug\net5.0\Variables_Console_Operaciones.deps.json
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Variables_Console_Operaciones\bin\Debug\net5.0\Variables_Console_Operaciones.runtimeconfig.json
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Variables_Console_Operaciones\bin\Debug\net5.0\Variables_Console_Operaciones.runtimeconfig.dev.json
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Variables_Console_Operaciones\bin\Debug\net5.0\Variables_Console_Operaciones.dll
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Variables_Console_Operaciones\bin\Debug\net5.0\ref\Variables_Console_Operaciones.dll
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Variables_Console_Operaciones\bin\Debug\net5.0\Variables_Console_Operaciones.pdb
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Variables_Console_Operaciones\obj\Debug\net5.0\Variables_Console_Operaciones.csproj.AssemblyReference.cache
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Variables_Console_Operaciones\obj\Debug\net5.0\Variables_Console_Operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Variables_Console_Operaciones\obj\Debug\net5.0\Variables_Console_Operaciones.AssemblyInfoInputs.cache
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Variables_Console_Operaciones\obj\Debug\net5.0\Variables_Console_Operaciones.AssemblyInfo.cs
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Variables_Console_Operaciones\obj\Debug\net5.0\Variables_Console_Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Variables_Console_Operaciones\obj\Debug\net5.0\Variables_Console_Operaciones.dll
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Variables_Console_Operaciones\obj\Debug\net5.0\ref\Variables_Console_Operaciones.dll
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Variables_Console_Operaciones\obj\Debug\net5.0\Variables_Console_Operaciones.pdb
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Variables_Console_Operaciones\obj\Debug\net5.0\Variables_Console_Operaciones.genruntimeconfig.cache

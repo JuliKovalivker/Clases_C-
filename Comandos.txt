@@ -1,0 +1,11 @@
+https://travis.media/how-to-run-csharp-in-vscode/
+
+https://dotnet.microsoft.com/en-us/download
+
+dotnet --version
+
+dotnet new console -o app
+cd app
+code .
+
+dotnet run
