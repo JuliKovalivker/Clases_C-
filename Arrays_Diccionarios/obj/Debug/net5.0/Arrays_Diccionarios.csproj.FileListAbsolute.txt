@@ -1,0 +1,16 @@
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Arrays_Diccionarios\obj\Debug\net5.0\Arrays_Diccionarios.csproj.AssemblyReference.cache
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Arrays_Diccionarios\obj\Debug\net5.0\Arrays_Diccionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Arrays_Diccionarios\obj\Debug\net5.0\Arrays_Diccionarios.AssemblyInfoInputs.cache
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Arrays_Diccionarios\obj\Debug\net5.0\Arrays_Diccionarios.AssemblyInfo.cs
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Arrays_Diccionarios\obj\Debug\net5.0\Arrays_Diccionarios.csproj.CoreCompileInputs.cache
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Arrays_Diccionarios\bin\Debug\net5.0\Arrays_Diccionarios.exe
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Arrays_Diccionarios\bin\Debug\net5.0\Arrays_Diccionarios.deps.json
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Arrays_Diccionarios\bin\Debug\net5.0\Arrays_Diccionarios.runtimeconfig.json
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Arrays_Diccionarios\bin\Debug\net5.0\Arrays_Diccionarios.runtimeconfig.dev.json
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Arrays_Diccionarios\bin\Debug\net5.0\Arrays_Diccionarios.dll
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Arrays_Diccionarios\bin\Debug\net5.0\ref\Arrays_Diccionarios.dll
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Arrays_Diccionarios\bin\Debug\net5.0\Arrays_Diccionarios.pdb
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Arrays_Diccionarios\obj\Debug\net5.0\Arrays_Diccionarios.dll
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Arrays_Diccionarios\obj\Debug\net5.0\ref\Arrays_Diccionarios.dll
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Arrays_Diccionarios\obj\Debug\net5.0\Arrays_Diccionarios.pdb
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Arrays_Diccionarios\obj\Debug\net5.0\Arrays_Diccionarios.genruntimeconfig.cache
