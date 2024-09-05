@@ -1,0 +1,5 @@
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Clases\obj\Debug\net5.0\Clases.csproj.AssemblyReference.cache
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Clases\obj\Debug\net5.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Clases\obj\Debug\net5.0\Clases.AssemblyInfoInputs.cache
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Clases\obj\Debug\net5.0\Clases.AssemblyInfo.cs
+C:\Users\julik\OneDrive\Desktop\Documents\GitHub\Clases_C-\Clases\obj\Debug\net5.0\Clases.csproj.CoreCompileInputs.cache
